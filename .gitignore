@@ -1,0 +1,21 @@
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
+# Sensitive logs
+logs/
+*.log
+*.db
+*.enc
+
+# Environment files
+*.key
+.env
+
+# IDE/editor config
+.vscode/
