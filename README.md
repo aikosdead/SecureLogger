@@ -1,6 +1,6 @@
 # 🔐 SecureLogger – Cloud-Linked Stealth Keylogger
 
-SecureLogger is a stealth keylogging tool built for educational and ethical research purposes. It captures keystrokes in real-time, stores them locally and remotely (via Firebase), and runs silently with startup persistence.
+SecureLogger is a stealth keylogging tool built for educational and ethical research purposes. It captures keystrokes in real-time, stores them locally and remotely (via Firebase), and runs silently with startup persistence. This tool is built for red-team simulation and educational use. Obfuscation is left intentionally moderate to keep the code readable and demonstrate transparency in logic. Advanced evasion can be layered if desired using native compilation (e.g., Nuitka) or custom loaders.
 
 > ⚠️ **This project is for ethical, authorized use only**. Do not deploy this tool on any system without explicit consent.
 

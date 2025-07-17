@@ -16,6 +16,7 @@ logs/
 # Environment files
 *.key
 .env
+.venv/
 
 # IDE/editor config
 .vscode/
